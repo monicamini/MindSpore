@@ -12,7 +12,7 @@
             ├─WikiQA-dev.tsv
             ├─WikiQA-test.tsv
             ├─WikiQA-train.tsv
-        ├─qabot.ipynb       # 实验报告  
+        ├─QABot.ipynb       # 实验报告  
         ├─train.py          # 训练模型
         ├─predict.py        # 推理QA
         ├─README.md         # 使用指南
