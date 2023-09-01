@@ -12,6 +12,7 @@
             ├─WikiQA-dev.tsv
             ├─WikiQA-test.tsv
             ├─WikiQA-train.tsv
+        ├─qabot.ipynb       # 实验报告  
         ├─train.py          # 训练模型
         ├─predict.py        # 推理QA
         ├─README.md         # 使用指南
@@ -53,7 +54,11 @@
     - 进入项目文件夹下，使用`python predict.py`进行推理
     - 有两个模式：单句模式”single“与批量处理模式”file“进行判断
 
-## **三、参考资料**
+## 三、实验报告
+
+在`qabot.ipynb`中有较为详细的实验报告，可供参考 
+
+## **四、参考资料**
 
 - 基于Bert实现知识库问答：[https://work.datafountain.cn/forum?id=121&type=2&source=1](https://work.datafountain.cn/forum?id=121&type=2&source=1)
 - MindNLP开源地址：h[ttps://openi.pcl.ac.cn/lvyufeng/mindnlp](https://openi.pcl.ac.cn/lvyufeng/mindnlp)
